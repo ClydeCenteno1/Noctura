@@ -57,8 +57,6 @@ Or drag `index.html` straight into any browser window.
 
 ## 🎨 Design Reference
 
-## 🎨 Design Reference
-
 This project is a **Figma-to-code** recreation of the [Simple Website Design](https://www.figma.com/proto/UfPJ6yIIfrGjV1EdiimHmw/Simple-website-design--Community-?node-id=2-2&p=f&t=8Z0kQjjGi0W9e3UZ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) community template. The goal was to practice translating a visual design into clean, responsive HTML and CSS as faithfully as possible.
 
 ---
