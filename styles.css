@@ -1,0 +1,83 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    overflow-x: hidden;
+}
+
+main {
+    background-image:
+        url("digital-art-with-planet-earth.jpg");
+
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, center;
+
+    mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+}
+
+
+body {
+    background-color: #061a0e;
+}
+
+.hero-text {
+    font-family: Montserrat;
+}
+
+.hero-slogan {
+    letter-spacing: 0.2rem;
+}
+
+.hero-subtext {
+    line-height: 1.4rem;
+}
+
+.hero-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+
+
+.image-content1 {
+    background-image: url(slMwKN.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+}
+
+.image-content2 {
+    background-image: url(image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+}
+
+.image-content3 {
+    background-image: url(image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+}
+
+.card-container {
+    background-color: #164c2b;
+}
+
+.card-image img {
+    width: 321.6px;
+    height: 214.4px;
+}
+
+.fa-brands,
+.fa-solid {
+    color: #164c2b !important;
+}
